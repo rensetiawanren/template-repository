@@ -23,10 +23,6 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
     </a>
-  <!--[CSS]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor="/>
-    </a>
 
 ---
 
