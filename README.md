@@ -11,6 +11,10 @@
 ---
 
 <!--[Tech Stack]-->
+<h3 align="left">
+  <!--<img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" />--> 
+🧰 Tech Stack
+</h3>
 <h2 align="left">
   <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="20px" height="20px" /> Tech Stack
 </h2>
