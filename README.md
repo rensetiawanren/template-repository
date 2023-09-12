@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 2. [Project Goals](#project-goals)
 3. [Tech Stak](#tech-stack)
 4. [Workflow](#workflow)
-5. [Challenge](#challenge)
+5. [Task](#task)
 6. [Documentation](#documentation)
 
 ## Project Instruction
@@ -97,7 +97,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 4. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Challenge
+## Task
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ### Case 1
