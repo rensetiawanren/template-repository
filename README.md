@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <p align="center">
-  <img src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/2/0.0-CB-002_2-create%2Btemplate%2Bgithub%2Brepository.png"/>
+  <img src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/00002_create-template-github-repository/0.0-CB-002-00002_create%2Btemplate%2Bgithub%2Brepository.png"/>
 </p>
 
 ---
