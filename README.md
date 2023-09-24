@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <p align="center">
-  <img src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/00002_create-template-github-repository/0.0-CB-002-00002_create%2Btemplate%2Bgithub%2Brepository.png"/>
+  <img width="auto" height="auto" style="border-radius: 10px" src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/00002_create-template-github-repository/0.0-CB-002-00002_create%2Btemplate%2Bgithub%2Brepository.png"/>
 </p>
 
 ---
@@ -127,7 +127,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Documentation
 ### To-Do
 - [ ] Complete Workflow
-- [ ] Complete Challenge
+- [ ] Complete Task
 - [ ] Create Documentation Report
 
 ### Report
