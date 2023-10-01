@@ -1,7 +1,7 @@
 <!--[Banner]-->
-<p align="center">
-  <img width="auto" height="auto" style="border-radius: 10px" src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/00002_create-template-github-repository/0.0-CB-002-00002_create%2Btemplate%2Bgithub%2Brepository.png"/>
-</p>
+<kbd>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/00002_create-template-github-repository/0.0-CB-002-00002_create%2Btemplate%2Bgithub%2Brepository.png"/>
+</kbd>
 
 ---
 
@@ -123,7 +123,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 2. 
 3. 
 
-<!-- Documentation -->
 ## Documentation
 ### To-Do
 - [ ] Complete Workflow
@@ -133,3 +132,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Report
 - [Presentation]()
 - [Documentation]()
+
+---
