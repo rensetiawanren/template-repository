@@ -3,8 +3,6 @@
   <img align="center" width="auto" height="auto" style="border-radius: 10px" src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/00002_create-template-github-repository/0.0-CB-002-00002_create%2Btemplate%2Bgithub%2Brepository.png"/>
 </kbd>
 
----
-
 # project-name
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
