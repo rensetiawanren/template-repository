@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="https://github.com/rensetiawanren/my-blog-post/blob/main/image/content/00002_create-template-github-repository/0.0-CB-002-00002_create%2Btemplate%2Bgithub%2Brepository.png"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="https://github.com/rensetiawanren/my-blog-post/blob/main/assets/content/00002_create-template-github-repository/0.0-CB-002-00002_create-template-github-repo.png"/>
 </kbd>
 
 # project-name
