@@ -1,7 +1,9 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="https://github.com/rensetiawanren/my-blog-post/blob/main/assets/content/00002_create-template-github-repository/0.0-CB-002-00002_create-template-github-repo.png"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/1-COVER.jpg"/>
 </kbd>
+
+---
 
 # project-name
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -41,13 +43,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="">
       <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
     </a>
-  <!--[CSS]-->
+  <!--[Markdown]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor=1572B6"/>
-    </a>
-  <!--[Javascrip]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Javascript-272727?style=flat-square&logo=javascript&logoColor="/>
+      <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
     </a>
 </p>    
 
@@ -72,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### WEB Browser
 <p align="justify">    
-  <!--[Visual Studio Code]-->
+  <!--[Mozilla Firefox Developer Edition]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-272727?style=flat-square&logo=firefox&logoColor=blue"/>
     </a>
@@ -82,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p align="justify">
     <!--[MacOS]-->
       <a href="https://www.apple.com/id/macos">
-        <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=MacOS&logoColor="/>
+        <img src="https://img.shields.io/badge/-macOS-272727?style=flat-square&logo=macos&logoColor="/>
       </a>
 </p>
 
