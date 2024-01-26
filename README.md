@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
     </a>
   <!--[Markdown]-->
-    <a href="">
+    <a href="https://www.markdownguide.org/">
       <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
     </a>
 </p>    
@@ -52,11 +52,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ##### Versioning Control
 <p align="justify">    
   <!--[Git]-->
-    <a href="">
+    <a href="https://git-scm.com/">
       <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
     </a>
   <!--[GitHub]-->
-    <a href="">
+    <a href="https://github.com/">
       <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
     </a>    
 </p>    
@@ -64,14 +64,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ##### IDE
 <p align="justify">    
   <!--[Visual Studio Code]-->
-    <a href="">
+    <a href="https://code.visualstudio.com/">
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=blue"/>
     </a>
 
 ##### WEB Browser
 <p align="justify">    
   <!--[Mozilla Firefox Developer Edition]-->
-    <a href="">
+    <a href="https://www.mozilla.org/en-US/firefox/developer/">
       <img src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-272727?style=flat-square&logo=firefox&logoColor=blue"/>
     </a>
 <p align="justify">
