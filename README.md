@@ -36,48 +36,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ##### Programming Language
 <p align="justify">
   <!--[HTML]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
-    </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
+  </a>
   <!--[Markdown]-->
-    <a href="https://www.markdownguide.org/">
-      <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
-    </a>
+  <a href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
+  </a>
 </p>    
 
 ##### Versioning Control
 <p align="justify">    
   <!--[Git]-->
-    <a href="https://git-scm.com/">
-      <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
-    </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
+  </a>
   <!--[GitHub]-->
-    <a href="https://github.com/">
-      <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
-    </a>    
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
+  </a>    
 </p>    
 
 ##### IDE
 <p align="justify">    
   <!--[Visual Studio Code]-->
-    <a href="https://code.visualstudio.com/">
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=blue"/>
-    </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=blue"/>
+  </a>
+</p>
 
 ##### WEB Browser
 <p align="justify">    
   <!--[Mozilla Firefox Developer Edition]-->
-    <a href="https://www.mozilla.org/en-US/firefox/developer/">
-      <img src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-272727?style=flat-square&logo=firefox&logoColor=blue"/>
-    </a>
-<p align="justify">
+  <a href="https://www.mozilla.org/en-US/firefox/developer/">
+    <img src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-272727?style=flat-square&logo=firefox&logoColor=blue"/>
+  </a>
+</p>
 
 #### Operating System
 <p align="justify">
-    <!--[MacOS]-->
-      <a href="https://www.apple.com/id/macos">
-        <img src="https://img.shields.io/badge/-macOS-272727?style=flat-square&logo=macos&logoColor="/>
-      </a>
+  <!--[MacOS]-->
+  <a href="https://www.apple.com/id/macos">
+    <img src="https://img.shields.io/badge/-macOS-272727?style=flat-square&logo=macos&logoColor="/>
+  </a>
 </p>
 
 ## Workflow
