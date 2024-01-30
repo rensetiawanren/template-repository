@@ -1,11 +1,11 @@
-TTR-001-00002
-
 <!--[Banner]-->
 <kbd>
   <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/TTR-001-A-00002_1-COVER.jpg"/>
 </kbd>
 
----
+<p align="right">
+  TTR-001-A-00002
+</p>
 
 # project-name
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
