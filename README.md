@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Table of Content
 1. [Project Instruction](#project-instruction)
 2. [Project Goals](#project-goals)
-3. [Tech Stak](#tech-stack)
+3. [Tech Stack](#tech-stack)
 4. [Workflow](#workflow)
 5. [Task](#task)
 6. [Documentation](#documentation)
