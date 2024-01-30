@@ -4,7 +4,7 @@
 </kbd>
 
 <p align="right">
-  TTR-001-A-00002
+  TTR-001-00002
 </p>
 
 # project-name
