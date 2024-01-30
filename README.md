@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/TTR-001-00002_github-template-repo_1-COVER.jpg"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/TTR-001-A-00002_1-COVER.jpg"/>
 </kbd>
 
 ---
